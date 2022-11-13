@@ -1,0 +1,4 @@
+- A div contains a Number
+- a nother div as a counter show the same number and keep decreasing the number untill hits a zero, it will stop
+- I used setInterval for counting down
+- And used clearInterval to stop counting down
